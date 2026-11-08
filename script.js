@@ -462,19 +462,19 @@ function closeGiftModal() {
 const LETTER_SECTIONS = [
   {
     id: 'letter-headline-el',
-    text: "Happy birthday Mahima Singh! ❤️"
+    text: "Happy birthday sis Mahima Singh! ❤️"
   },
   {
     id: 'letter-p1-el',
-    text: "Happy birthday Mahima Singh! I hope this year brings you everything you've been wishing for and so much more. Thank you for making my days happier, my bad days easier, and my life a little more beautiful just by being in it. 🥺💖"
+    text: "Happy birthday Mahima Singh! Hope this year brings you everything you've been wishing for and then some. Thanks for putting up with me and making life way more fun just by being my sister. Keep vibing! 🥺💖"
   },
   {
     id: 'letter-p2-el',
-    text: "I'm so lucky to have you, Mahima Singh, and I can't wait to make a million more memories with you. Here's to you, your dreams, and all the happiness you deserve."
+    text: "So lucky to have you as my sister, Mahima Singh. Can't wait to make a million more memories (and embarrass you a few more times). Here's to you, your dreams, and all the happiness you deserve."
   },
   {
     id: 'letter-closing-el',
-    text: "Happy birthday, Mahima Singh. I love you more than you know. 🫶🏻🎂❤️"
+    text: "Happy birthday, Mahima Singh. Love you more than you know, sis. 🫶🏻🎂❤️"
   }
 ];
 
