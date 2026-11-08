@@ -462,19 +462,19 @@ function closeGiftModal() {
 const LETTER_SECTIONS = [
   {
     id: 'letter-headline-el',
-    text: "Happy birthday sis Mahima Churail Singh! 😜🎂"
+    text: "Happy birthday Mahima Singh! 😜🎂(chudail)"
   },
   {
     id: 'letter-p1-el',
-    text: "Happy birthday Mahima Churail! Hope this year brings you everything you're wishing for and then some. Thanks for being the most annoying yet amazing sister ever. Keep vibing, churail! 😂🤪💖"
+    text: "Happy birthday Mahima! Hope this year brings you everything you're wishing for and then some. Thanks for being the most annoying yet amazing sister ever. Keep vibing, churail! 😂🤪💖"
   },
   {
     id: 'letter-p2-el',
-    text: "So lucky (or unlucky?) to have you as my sister, Mahima Churail Singh. Can't wait to make a million more memories and embarrass you a thousand more times. Here's to you and all the drama you deserve! 🙃😜🎉"
+    text: "So lucky (or unlucky?) to have you as my sister, Mahima. Can't wait to make a million more memories and embarrass you a thousand more times. Here's to you! 🙃😜🎉"
   },
   {
     id: 'letter-closing-el',
-    text: "Happy birthday, Mahima Churail. Love you (a little), sis. 🫶🏻🎂😂"
+    text: "Happy birthday Mahima. Love you beta."
   }
 ];
 
